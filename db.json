@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "admin",
+      "password": "password"
+    },
+    {
+      "id": "1",
+      "name": "admin2",
+      "password": "password2"
+    },
+    {
+      "id": "2",
+      "name": "admin3",
+      "password": "password3"
+    },
+    {
+      "id": "3",
+      "name": "admin4",
+      "password": "password4"
+    },
+    {
+      "id": "4",
+      "name": "admin4",
+      "password": "password4"
+    }
+  ],
+  "books": [
+    {
+      "id": "0",
+      "name": "Living in the Light: A guide to personal transformation",
+      "pages": "258",
+      "year": "2001",
+      "size": "2.74",
+      "lang": "English",
+      "author": "David Sargent",
+      "description": "Living in the Light was first published in 1986. Since that time, it has sold over a million copies, and has been translated into many languages all over the world. Today, it continues to sell steadily and I receive continuous feedback that it is touching people’s lives in a meaningful way.",
+      "img": "id0.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Core Light Healing: My Personal Journey and Advanced Healing Concepts for Creating the Life You Long to Live",
+      "pages": "413",
+      "year": "2017",
+      "size": "5.6",
+      "lang": "English",
+      "author": "Barbara Brenan",
+      "description": "I believe Barbara Brennan could easily be regarded as the most influential hands-on healer and clairvoyant of the 21st century. Her work is clearl visionary and groundbreaking. Barbara Brennan’s theories of the human energy field (HEF) are still widely quoted. In fact, her theories of the HEF have been adapted and woven into the overall narrative of the field of energy healing. They have served to be instrumental in informing and guiding many of the more recently created energy healing modalities. Other aspects of her work, such as the importance of clear intentionality, have also proven to be far-reaching. I have no doubt her school, workshops, books, students, and overall sphere of influence",
+      "img": "id1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Personality Hacker : Harness The Power Of Your Personality Type To Transform Your Work, Relationships, And Life",
+      "pages": "441",
+      "year": "2018",
+      "size": "13.39",
+      "lang": "Sanskrit",
+      "author": "Joel Mark Witt & Antonia Dodge",
+      "description": "According to Moore’s Law, the capacity of technological hardware doubles every two years, rendering advancements in consumer tech both more powerful and more affordable. This is why the phone in your pocket is more powerful than the room-sized computers NASA relied upon to calculate the Apollo moon landings. And on those phones, we install an infinite array of apps that we use to engage with each other, while simultaneously complaining about how we lack true connection and intimacy.",
+      "img": "id2.jpg"
+    },
+    {
+      "id": "3",
+      "name": " Python Programming: An Introduction to Computer Science",
+      "pages": "261",
+      "year": "2012",
+      "size": "1.2",
+      "lang": "English",
+      "author": "Grahlem Hadley",
+      "description": "Almost everyone has used a computer at one time or another. Perhaps you have played computer games or used a computer to write a paper or balance your checkbook. Computers are used to predict the weather, design airplanes, make movies, run businesses, perform financial transactions, and control factories. Have you ever stopped to wonder what exactly a computer is? How can one device perform so manydifferent tasks? These basic questions are the starting point for learning about computers and computer programming..",
+      "img": "id3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Algorithms - Mathematics & Computer Science",
+      "pages": "318",
+      "year": "2012",
+      "size": "1.93",
+      "lang": "English",
+      "author": "John Wander Plas",
+      "description": "This book evolved over the past ten years from a set of lecture notes developed while teachingthe undergraduate Algorithms course at Berkeley and U.C. San Diego. Our way of teaching this course evolved tremendously over these years in a number of directions, partly to address our students’ background (undeveloped formal skills outside of programming), and partly to reflect the maturing of the field in general, as we have come to see it. The notes increasingly crystallized into a narrative, and we progressively structured the course to emphasize the “story line” implicit in the progression of the material. As a result, the topics were carefully selected and clustered. No attempt was made to be encyclopedic, and this freed us to include topics traditionally de-emphasized or omitted from most Algorithms books.",
+      "img": "id4.jpg"
+    },
+    {
+      "id": "5",
+      "name": " Mathematical structures for computer science : discrete mathematics and its applications",
+      "pages": "986",
+      "year": "2014",
+      "size": "11.16",
+      "lang": "English",
+      "author": "Judith L. Gersting",
+      "description": "You’ve had those days, right? When the sleep deprivation, the muddy cleats, the peanut butter on the new jacket, the homework battles, the Play-Doh in your computer keyboard, and the refrains of “She started it!” leave you counting the minutes until bedtime. On these days, when you (again?!!) have to pry a raisin from a nostril, it seems like the most you can hope for is to survive.",
+      "img": "id5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind",
+      "pages": "297",
+      "year": "2014",
+      "size": "13.29",
+      "lang": "English",
+      "author": "Judith L. Gersting",
+      "description": "If you feel at a loss when it comes to getting your kids to argue less or speak more respectfully ... if you can’t figure out how to keep yourtoddler from climbing up to the top bunk, or get him to put on clothes before answering the front door ... if you feel frustrated having to utter the same phrase over and over again (“Hurry! You’re going to be late for school!”) or to engage in another battle over bedtime or homework or screen time ... if you’ve experienced any of these frustrations, you are not alone.",
+      "img": "id6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning",
+      "pages": "366",
+      "year": "2018",
+      "size": "4.59",
+      "lang": "English",
+      "author": "Chris Albon",
+      "description": "While the publisher and the author have used good faith efforts to ensure that the information and instructions contained in this work are accurate, the publisher and the author disclaim all responsibility for errors or omissions, including without limitation responsibility for damages resulting from the use of or reliance on this work. Use of the information and instructions contained in this work is at your own risk. If any code samples or other technology this work contains or describes is subject to open source licenses or the intellectual property rights of others, it is your responsibility to ensure that your use thereof complies with such licenses and/or rights.",
+      "img": "id7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Deep Learning in Python: Master Data Science and Machine Learning with Modern Neural Networks written in Python, Theano, and TensorFlow",
+      "pages": "104",
+      "year": "2016",
+      "size": "0.688",
+      "lang": "English",
+      "author": "Chris Albon",
+      "description": "All the materials in this book can be downloaded and installed for free. We will use the programming language, along with the numerical computing library Numpy. I will also show you in the later chapters how to build a deep network using Theano and TensorFlow, which are libraries built specifically for deep learning and can accelerate computation by taking advantage of the GPU.",
+      "img": "id8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Convolutional Neural Networks in Python: Master Data Science and Machine Learning with Modern Deep Learning in Python, Theano, and TensorFlow (Machine Learning in Python)",
+      "pages": "75",
+      "year": "2016",
+      "size": "0.512",
+      "lang": "English",
+      "author": "William Barden",
+      "description": "Because convolution is such a central part of this type of neural network, we are going to go in-depth on this topic. It has more applications than you might imagine, such as modeling artificial organs like the pancreas and the heart. I'm going to show you how to build convolutional filters that can be applied to audio, like the echo effect, and I'm going to show you how to build filters forimage effects, like the Gaussian blur and edge detection.",
+      "img": "id9.jpg"
+    },
+    {
+      "id": "10",
+      "name": " Unsupervised Deep Learning in Python: Master Data Science and Machine Learning with Modern Neural Networks written in Python and Theano",
+      "pages": "100",
+      "year": "2016",
+      "size": "0.590",
+      "lang": "English",
+      "author": "Lazy Programmer",
+      "description": "Autoencoders and Restricted Boltzmann Machines help you visualize what eachhidden node in a neural network has learned. One interesting feature researchers have discovered is that neural networks learn hierarchically. Take images offaces for example. The first layer of a neural network will learnsome basic strokes. The next layer will combine the strokes into combinations of strokes. The next layer might form the pieces of a face, like the eyes, nose, ears, and mouth. It truly is amazing!",
+      "img": "id10.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Deep Learning: Recurrent Neural Networks in Python: LSTM, GRU, and more RNN machine learning architectures in Python and Theano (Machine Learning in Python)",
+      "pages": "139",
+      "year": "2016",
+      "size": "0.679",
+      "lang": "English",
+      "author": "Jos Austin",
+      "description": "Autoencoders and Restricted Boltzmann Machines help you visualize what each hidden node in a neural network has learned. One interesting feature researchers have discovered is that neural networks learn hierarchically. Take images of faces for example. The first layer of a neural network will learn some basic strokes. The next layer will combine the strokes into combinations of strokes. The next layer might form the pieces of a face, like the eyes, nose, ears, and mouth. It truly is amazing!",
+      "img": "id11.jpg"
+    }
+  ]
+}
